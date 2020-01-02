@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "ameliagarvin.github.io/monsters/static/css/main.493d3263.chunk.css",
+    "main.js": "ameliagarvin.github.io/monsters/static/js/main.cc5568ad.chunk.js",
+    "main.js.map": "ameliagarvin.github.io/monsters/static/js/main.cc5568ad.chunk.js.map",
+    "runtime-main.js": "ameliagarvin.github.io/monsters/static/js/runtime-main.1fa2d762.js",
+    "runtime-main.js.map": "ameliagarvin.github.io/monsters/static/js/runtime-main.1fa2d762.js.map",
+    "static/js/2.7699bed9.chunk.js": "ameliagarvin.github.io/monsters/static/js/2.7699bed9.chunk.js",
+    "static/js/2.7699bed9.chunk.js.map": "ameliagarvin.github.io/monsters/static/js/2.7699bed9.chunk.js.map",
+    "index.html": "ameliagarvin.github.io/monsters/index.html",
+    "precache-manifest.85e4806df493897702aeb414c82bf1fe.js": "ameliagarvin.github.io/monsters/precache-manifest.85e4806df493897702aeb414c82bf1fe.js",
+    "service-worker.js": "ameliagarvin.github.io/monsters/service-worker.js",
+    "static/css/main.493d3263.chunk.css.map": "ameliagarvin.github.io/monsters/static/css/main.493d3263.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fa2d762.js",
+    "static/js/2.7699bed9.chunk.js",
+    "static/css/main.493d3263.chunk.css",
+    "static/js/main.cc5568ad.chunk.js"
+  ]
+}
